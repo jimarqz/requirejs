@@ -25,7 +25,7 @@ function   ($,       underscore  ,  purchase,   cart) {
 
 	  cart.getItems("1","2");
 
-	  $( "p" ).html( "jquery in da house" );
+	  $( "p" ).html( "Danny Sucks!!" );
 
 
 });
