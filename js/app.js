@@ -21,11 +21,12 @@ function   ($,       underscore  ,  purchase,   cart) {
     //loaded and can be used here now.
 
 
-	  purchase.purchaseProduct();
+      purchase.purchaseProduct();
 
-	  cart.getItems("1","2");
+      cart.getItems("1","2");
 
-	  $( "p" ).html( "Samples requirejs");
+      $( "p" ).html( "Samples requirejs" );
+      $("p").css("color", "red");
 
 
 });
