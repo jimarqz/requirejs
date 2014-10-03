@@ -25,7 +25,7 @@ function   ($,       underscore  ,  purchase,   cart) {
 
 	  cart.getItems("1","2");
 
-	  $( "p" ).html( "Samples requirejs );
+	  $( "p" ).html( "Samples requirejs");
 
 
 });
