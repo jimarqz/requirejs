@@ -26,7 +26,8 @@ function   ($,       underscore  ,  purchase,   cart) {
       cart.getItems("1","2");
 
       $( "p" ).html( "Samples requirejs" );
-      $("p").css("color", "red");
+      $("p").html("Where is our Security Princess?");
+      $("p").append("Our salary range sucks!!!!");
 
 
 });
