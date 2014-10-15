@@ -16,7 +16,7 @@ requirejs.config({
 
 // Start the main app logic.
 requirejs(['jquery', 'underscore' , 'app/purchase', 'app/cart'],
-function   ($,       underscore  ,  purchase,   cart) {
+function   ($,       _  ,  purchase,   cart) {
     //jQuery, purchase and the app/cart module are all
     //loaded and can be used here now.
 
